@@ -74,3 +74,4 @@ Will run within a Java IDE environment and therefore require no additional softw
 * If the player comes to the railroad square and if the owner of the railroad square exists, the player pays rent. If the owner of the railroad square does not exist and the player wants to buy, the player pays the price of the railroad square.
 * If the player comes to one of the avenues (Bagdat, Beyoglu, Taksim, Istiklal) and if the owner of the avenue square exists, the player pays rent. If the owner of the avenue square does not exist and the player wants to buy, the player pays the price of avenue square. And finally, if the player wants to establish a house or hotel in the square and has enough money, he or she can.
 * The game ends when one of the players drops the money.
+
