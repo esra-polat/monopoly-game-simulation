@@ -1,3 +1,6 @@
-.idea/*
-out/*
-Monopoly.iml
+.idea
+*.iml
+out
+.gradle
+gradle
+build
